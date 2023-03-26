@@ -1,0 +1,9 @@
+venv
+sql_app.db
+__pycache__
+.idea
+*.pyc
+*.pyo
+*.log
+*.env
+*.key
